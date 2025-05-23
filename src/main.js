@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import App from './ContractList.vue'
 import { createClient } from '@supabase/supabase-js'
 
 const supabase = createClient(
